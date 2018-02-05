@@ -2,5 +2,5 @@
 Primer proyecto en GitHub
 --------------------------
 Hola mundo!!
-ya estoy aquí para coerte!
+ya estoy aquí para comerte!
 lol
